@@ -1,0 +1,72 @@
+/* Imported google font for Site B */
+
+@import url("https://fonts.googleapis.com/css2?family=Allison&display=swap");
+
+html {
+  font-family: "Allison";
+}
+
+#landing {
+  background-image: url(https://centrecolonels.com/images/logos/site/site.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+h1 {
+  text-align: center;
+  border: 1px solid black;
+  background: yellow;
+}
+
+p {
+  border: 1px solid black;
+  background-color: yellow;
+  text-align: center;
+  text-decoration: underline;
+}
+
+.navigation a {
+  text-decoration: none;
+  color: black;
+  background-color: #dddddd;
+}
+
+th,
+td {
+  background-color: yellow;
+  border: 1px solid black;
+}
+
+img {
+  width: 75px;
+  height: 75px;
+}
+
+#StudioArt {
+  background-image: url(https://upload.wikimedia.org/wikipedia/en/6/61/Centrecollegeseal.png);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#Economics {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQAPDQtlj9sJ-pd3yXXR1JkN_Hcwwdt819T3Jm9RGMCoHFO2UAauGcNFIzFfQz0hosHP04&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#Politics {
+  background-image: url(https://assets.bizjournals.com/louisville/news/Centre%20College%20logo.jpg?v=1);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+#ComputerScience {
+  background-image: url(https://www.edarabia.com/wp-content/uploads/2013/08/centre-college-logo-usa.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+#Mathematics {
+  background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBeifi0_mWUdrpQff1Oyy9UOCC5f4tNnTmu1cSlLrROcnOcqS_M6-pVaTGJ4aDLxgbi2s&usqp=CAU);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
